@@ -1,4 +1,0 @@
-Sitemap: https://shadowcomer.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: shadowcomer.github.io
